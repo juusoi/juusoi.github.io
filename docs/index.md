@@ -15,49 +15,9 @@ Al Pacino *- Tony D'Amato*
 - CS:GO on joukkupeli, jossa tavoitteena on voittaa enemmän kierroksia, kuin vastustajajoukkue. Kierroksen voittaminen tapahtuu eliminoimalla vastustaja, räjäyttämällä pommi, purkamalla pommi tai estämällä pommin virittäminen kierrosajan puitteissa.
 - Taktisesti yllä olevan lisäksi kierrokselle kannattaa asettaa muita tavoitteita, jotka riippuvat mm. ekonomiasta, pelattavasta puolesta ja sen hetkisestä tilanteesta.
 
-# de_nuke
+# Kartat
 
-Ydinmaa
-
-## CT
-
-Default:
-
-- 1 X Ramppi, 3 X Halli, 1 X Piha
-- 2 X Ramppi, 2 X Halli, 1 X Piha
-- 1 X Ramppi, 2 X Halli, 1 X Garage, 1 X CT-piha
-
-Muut:
-
-- Aulapusku
-- Ramppipusku
-- Pihapusku
-
-Kamoja:
-
-- Vinkupoltto
-- Pihanaatit
-- Siilomolo
-- Ramppikamat
-
-## T
-
-Takuja:
-
-- Rampitus
-- Rööriroope
-- Pihasavutus
-- Halliryystö
-- Ramppiryysä
-- Aulaholdi
-- Siilo -> hell/garage
-
-Kamoja:
-
-- Pihasavut main/red
-- Hutin kattomolo
-- Hallivalot
-- Vinkusavu
+[de_nuke](https://csgo.asennusvelho.fi/maps/de_nuke)
 
 # Konffit
 
