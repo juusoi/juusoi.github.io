@@ -18,6 +18,12 @@ Al Pacino *- Tony D'Amato*
 # Kartat
 
 [de_nuke](https://csgo.asennusvelho.fi/maps/de_nuke)
+[de_ancient](https://csgo.asennusvelho.fi/maps/de_ancient)
+[de_mirage](https://csgo.asennusvelho.fi/maps/de_mirage)
+[de_inferno](https://csgo.asennusvelho.fi/maps/de_inferno)
+[de_vertigo](https://csgo.asennusvelho.fi/maps/de_vertigo)
+[de_dust2](https://csgo.asennusvelho.fi/maps/de_dust2)
+[de_overpass](https://csgo.asennusvelho.fi/maps/de_overpass)
 
 # Konffit
 
