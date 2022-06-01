@@ -1,11 +1,9 @@
-"Your "best"! Losers always whine about their best. Winners go home and fuck the prom queen."
-
+"Your "best"! Losers always whine about their best. Winners go home and fuck the prom queen."  
 Sean Connery *- John Patrick Mason*
 
 ---
 
-"You’re gonna see a guy who will sacrifice himself for this team, because he knows when it comes down to it your gonna do the same for him. That's a team, gentlemen."
-
+"You’re gonna see a guy who will sacrifice himself for this team, because he knows when it comes down to it your gonna do the same for him. That's a team, gentlemen."  
 Al Pacino *- Tony D'Amato*
 
 ---
