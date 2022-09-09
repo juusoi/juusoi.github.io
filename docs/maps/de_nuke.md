@@ -34,7 +34,7 @@ Takuja:
 - Ramppiryysä (juostaan ramppi läpi, joko alas tai heaveniin)
 - Aulaholdi (odotetaan puskuja, entryjen perusteella liike)
 - Siilo -> hell/garage (lurkki avaa tien halliin)
-- Nopea A-exe (1x katolta molo hutin päälle ja valo perään. 2x hutista nopeasti, 2x vingulta kun valo välähtää vingun päällä. Vinkumies ampuu kierroksen aluksi oikean puoleiset yläikkunat)
+- Nopea A-exe (1x katolta molo hutin päälle ja valo perään. 2x hutista nopeasti, 2x vingulta kun valo välähtää vingun päällä. Vinkumies ampuu kierroksen aluksi oikean puoleiset yläikkunat) 
 
 Kamoja:
 
