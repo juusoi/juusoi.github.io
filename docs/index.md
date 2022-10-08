@@ -1,10 +1,10 @@
 "Your "best"! Losers always whine about their best. Winners go home and fuck the prom queen."  
-Sean Connery *- John Patrick Mason*
+Sean Connery _- John Patrick Mason_
 
 ---
 
 "You’re gonna see a guy who will sacrifice himself for this team, because he knows when it comes down to it your gonna do the same for him. That's a team, gentlemen."  
-Al Pacino *- Tony D'Amato*
+Al Pacino _- Tony D'Amato_
 
 ---
 
@@ -21,7 +21,7 @@ Al Pacino *- Tony D'Amato*
 [de_inferno](https://csgo.asennusvelho.fi/maps/de_inferno)  
 [de_vertigo](https://csgo.asennusvelho.fi/maps/de_vertigo)  
 [de_dust2](https://csgo.asennusvelho.fi/maps/de_dust2)  
-[de_overpass](https://csgo.asennusvelho.fi/maps/de_overpass)  
+[de_overpass](https://csgo.asennusvelho.fi/maps/de_overpass)
 
 # Konffit
 
